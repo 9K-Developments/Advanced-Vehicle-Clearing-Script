@@ -1,4 +1,5 @@
 # 9k_clearcar
+![240adf73b958f4f64b0b7bc03179fe94](https://github.com/user-attachments/assets/251cf6d0-73e8-4666-aca4-0d664e6fb025)
 
 An advanced FiveM vehicle clearing plugin that allows administrators to clear all vehicles on the server with a simple command.
 
